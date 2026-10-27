@@ -107,6 +107,7 @@ ai-for-it-cybersecurity/
 ├── prompting/                 # Méthodes de formulation et structuration
 ├── verification/              # Contrôle, sources, hallucinations, comparaison
 ├── privacy/                   # Confidentialité et protection des données
+├── ai-tools/                  # Ollama, Obsidian, Notion et outils associés
 ├── rag/                       # Retrieval-Augmented Generation et sources maîtrisées
 ├── use-cases-it/              # Cas d’usage systèmes, support, infrastructure
 ├── use-cases-cybersecurity/   # Cas d’usage SOC, DFIR et défense
